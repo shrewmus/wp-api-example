@@ -1,0 +1,6 @@
+### GET posts list
+GET http://localhost:3001/api/posts
+
+
+### GET one post
+GET http://localhost:3001/api/posts/1
